@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aryansingh7910@gmail.com**
 
-- ⚡ Fun fact **I think you'll love to know me**
+- ⚡ **I think you'll love to know me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
