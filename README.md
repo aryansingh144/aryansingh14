@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/aryansingh7910" target="blank"><img src="https://img.shields.io/twitter/follow/aryansingh7910?logo=twitter&style=for-the-badge" alt="aryansingh7910" /></a> </p>
 
-- 🔭 I’m currently working on **Shell Shock**
+- 🔭 I’m currently working on **Shell Shock*
 
 - 🌱 I’m currently learning **Node ,Flutter..**
 
